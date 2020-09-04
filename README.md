@@ -1,5 +1,4 @@
-# Test td-NextBillDatedemo
-Next Bill Date Design in Billing Application
+# Test Driven Development - Next Bill Date Design in Billing Application
 
 User Stories & Acceptance Criteria:
 This document contents all the user stories that are developed as part of Next Bill Date Design.
